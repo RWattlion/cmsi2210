@@ -11,7 +11,7 @@ int main( int argc, char * argv[] ) {
    gets( input );
    printf( "\n  Well then, hello %s!  Nice to see you today...\n\n", input );
 
-   printf( "\n\n Hello", input, "\n\n")
+   printf( "\n\n Hello", input, "\n\n" );
 
    exit( 0 );
 
