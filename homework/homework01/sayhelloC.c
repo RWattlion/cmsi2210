@@ -10,6 +10,9 @@ int main( int argc, char * argv[] ) {
    printf( "   What's your name? " );
    gets( input );
    printf( "\n  Well then, hello %s!  Nice to see you today...\n\n", input );
+
+   printf( "\n\n Hello", input, "\n\n")
+
    exit( 0 );
 
 }
